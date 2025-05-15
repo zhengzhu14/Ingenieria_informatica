@@ -1,3 +1,1 @@
-Hello
 
-$\ket{X = \phi}$
